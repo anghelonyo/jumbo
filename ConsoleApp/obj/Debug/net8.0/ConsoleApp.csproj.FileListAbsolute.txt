@@ -1,0 +1,15 @@
+/workspaces/jumbo/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/workspaces/jumbo/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/workspaces/jumbo/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/workspaces/jumbo/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/workspaces/jumbo/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/workspaces/jumbo/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/jumbo/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/workspaces/jumbo/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/workspaces/jumbo/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/workspaces/jumbo/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
+/workspaces/jumbo/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/workspaces/jumbo/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/workspaces/jumbo/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/workspaces/jumbo/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/workspaces/jumbo/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
