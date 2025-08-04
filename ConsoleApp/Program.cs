@@ -1,4 +1,18 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("BASCONCILLO, KARL ANGELO P.");
-Console.WriteLine("20221124523");
-Console.WriteLine("'Wag na muna natin pag-usapan");
+﻿using System;
+using OOPYEAH;
+
+namespace OOPYEAH
+{
+    class Program2
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("AHAAAAAAAAAA");
+            Program2 name1 = new Program2();
+            Program2 name2 = new Program2();
+            name1.Hello("TUKMOL");
+            name2.Hello("TULOK");
+        }
+
+    }
+}

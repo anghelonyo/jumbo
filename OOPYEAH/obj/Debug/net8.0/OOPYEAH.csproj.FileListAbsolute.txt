@@ -1,0 +1,15 @@
+/workspaces/jumbo/OOPYEAH/bin/Debug/net8.0/OOPYEAH
+/workspaces/jumbo/OOPYEAH/bin/Debug/net8.0/OOPYEAH.deps.json
+/workspaces/jumbo/OOPYEAH/bin/Debug/net8.0/OOPYEAH.runtimeconfig.json
+/workspaces/jumbo/OOPYEAH/bin/Debug/net8.0/OOPYEAH.dll
+/workspaces/jumbo/OOPYEAH/bin/Debug/net8.0/OOPYEAH.pdb
+/workspaces/jumbo/OOPYEAH/obj/Debug/net8.0/OOPYEAH.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/jumbo/OOPYEAH/obj/Debug/net8.0/OOPYEAH.AssemblyInfoInputs.cache
+/workspaces/jumbo/OOPYEAH/obj/Debug/net8.0/OOPYEAH.AssemblyInfo.cs
+/workspaces/jumbo/OOPYEAH/obj/Debug/net8.0/OOPYEAH.csproj.CoreCompileInputs.cache
+/workspaces/jumbo/OOPYEAH/obj/Debug/net8.0/OOPYEAH.sourcelink.json
+/workspaces/jumbo/OOPYEAH/obj/Debug/net8.0/OOPYEAH.dll
+/workspaces/jumbo/OOPYEAH/obj/Debug/net8.0/refint/OOPYEAH.dll
+/workspaces/jumbo/OOPYEAH/obj/Debug/net8.0/OOPYEAH.pdb
+/workspaces/jumbo/OOPYEAH/obj/Debug/net8.0/OOPYEAH.genruntimeconfig.cache
+/workspaces/jumbo/OOPYEAH/obj/Debug/net8.0/ref/OOPYEAH.dll
