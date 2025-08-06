@@ -1,0 +1,15 @@
+/workspaces/jumbo/OOPYEET/obj/Debug/net8.0/OOPYEET.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/jumbo/OOPYEET/obj/Debug/net8.0/OOPYEET.AssemblyInfoInputs.cache
+/workspaces/jumbo/OOPYEET/obj/Debug/net8.0/OOPYEET.AssemblyInfo.cs
+/workspaces/jumbo/OOPYEET/obj/Debug/net8.0/OOPYEET.csproj.CoreCompileInputs.cache
+/workspaces/jumbo/OOPYEET/obj/Debug/net8.0/OOPYEET.sourcelink.json
+/workspaces/jumbo/OOPYEET/bin/Debug/net8.0/OOPYEET
+/workspaces/jumbo/OOPYEET/bin/Debug/net8.0/OOPYEET.deps.json
+/workspaces/jumbo/OOPYEET/bin/Debug/net8.0/OOPYEET.runtimeconfig.json
+/workspaces/jumbo/OOPYEET/bin/Debug/net8.0/OOPYEET.dll
+/workspaces/jumbo/OOPYEET/bin/Debug/net8.0/OOPYEET.pdb
+/workspaces/jumbo/OOPYEET/obj/Debug/net8.0/OOPYEET.dll
+/workspaces/jumbo/OOPYEET/obj/Debug/net8.0/refint/OOPYEET.dll
+/workspaces/jumbo/OOPYEET/obj/Debug/net8.0/OOPYEET.pdb
+/workspaces/jumbo/OOPYEET/obj/Debug/net8.0/OOPYEET.genruntimeconfig.cache
+/workspaces/jumbo/OOPYEET/obj/Debug/net8.0/ref/OOPYEET.dll
